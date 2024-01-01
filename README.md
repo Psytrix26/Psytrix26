@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Psytrix26
 - 👀 I’m interested in ...Alot Of Things    
 - 🌱 I’m currently learning ...
--   Java
+-   Java && bash script
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 - Here  .||
